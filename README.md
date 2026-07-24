@@ -58,43 +58,43 @@ gcc main.c view.c edit.c -o mp3_tag
 ### View MP3 Details
 
 ```bash
-./mp3_tag -v sample.mp3
+./mp3_tag -v sample.mpeg
 ```
 
 ### Edit Title
 
 ```bash
-./mp3_tag -e -t sample.mp3
+./mp3_tag -e -t sample.mpeg
 ```
 
 ### Edit Artist
 
 ```bash
-./mp3_tag -e -a sample.mp3
+./mp3_tag -e -a sample.mpeg
 ```
 
 ### Edit Album
 
 ```bash
-./mp3_tag -e -A sample.mp3
+./mp3_tag -e -A sample.mpeg
 ```
 
 ### Edit Year
 
 ```bash
-./mp3_tag -e -y sample.mp3
+./mp3_tag -e -y sample.mpeg
 ```
 
 ### Edit Genre
 
 ```bash
-./mp3_tag -e -g sample.mp3
+./mp3_tag -e -g sample.mpeg
 ```
 
 ### Edit Comment
 
 ```bash
-./mp3_tag -e -c sample.mp3
+./mp3_tag -e -c sample.mpeg
 ```
 
 ---
